@@ -1,0 +1,42 @@
+{
+	"name": "fwb",
+	"version": "0.0.1",
+	"main": "index.js",
+	"repository": {
+		"directory": "https://github.com/morizkay/fwb.git",
+		"type": "git",
+		"url": "https://github.com/morizkay/fwb.git"
+	},
+	"author": {
+		"email": "morizkay@live.com",
+		"name": "morizkay",
+		"url": "https://github.com/morizkay"
+	},
+	"contributors": [
+		{
+			"email": "morizkay@live.com",
+			"name": "morizkay",
+			"url": "https://github.com/morizkay"
+		}
+	],
+	"maintainers": [
+		{
+			"email": "morizkay@live.com",
+			"name": "morizkay",
+			"url": "https://github.com/morizkay"
+		}
+	],
+	"keywords": [
+		"hooks",
+		"react-data",
+		"react-hooks"
+	],
+	"license": "MIT",
+	"peerDependencies": {
+		"react": "^17.0.2"
+	},
+	"devDependencies": {
+		"@types/react": "^17.0.20",
+		"typescript": "^4.4.2"
+	}
+}
